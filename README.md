@@ -9,6 +9,7 @@ This SDK contains wapper code used to communicate with opentact platform.
 1. Make sure that you have installed xcode in your OSX.
 2. Run CLI. and input `open OpentactSDK.xcodeproj`
 3. Select your device, and Build it.
+4. You can find you compiled famework from `Windows->Project->Derived Data`
 
 
 
